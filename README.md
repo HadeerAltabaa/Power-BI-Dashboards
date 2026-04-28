@@ -1,6 +1,7 @@
 # Data Jobs Dashboard — Power BI Project
 
-![Data Jobs Dashboard](/images/Data%20Jobs%20Dashboard.png)
+![Data Jobs Dashboard](images/Data%20Jobs%20Dashboard.png)
+
 
 ## Introduction
 
@@ -50,7 +51,8 @@ This project demonstrates skills in:
 
 ### Page 1: High-Level Market Overview
 
-![Data Jobs Dashboard](/images/Data%20Jobs%20Dashboard.png)
+![Data Jobs Dashboard](images/Data%20Jobs%20Dashboard.png)
+
 
 This page provides an overall view of the data job market.
 
@@ -69,7 +71,7 @@ This page helps users quickly understand:
 
 ### Page 2: Job Title Drill Through
 
-![Job Title Drill Through](/images/Job%20Title%20Drill%20Through.png)
+![Job Title Drill Through](images/Job%20Title%20Drill%20Through.png)
 
 This page provides detailed insights for each specific job title.
 
